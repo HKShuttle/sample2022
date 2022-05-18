@@ -1,2 +1,5 @@
 # sample2022
-学部3年ゼミ演習用
+
+- apple
+- orange
+- banana
